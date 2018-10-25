@@ -3,6 +3,9 @@
 This is a tensorlfow implementation for the demonstration of Pendulum experiment of the paper: "Adaptive Path-Integral Autoencoder: Representation Learning and Planning for Dynamical Systems":
 https://arxiv.org/abs/1807.02128.
 
+We would refer readers to watch video for the results:
+https://www.youtube.com/watch?v=xCp35crUoLQ
+
 ## Requirements
 
 - Python 3
@@ -18,4 +21,4 @@ This code will save the learned model inside the folder 'weights'.
 
 2. To test the reconstruction / prediction / planning performance of APIAE., run 'test_pendulum.ipynb'.
 As a default, this code load the learned model from './weights/pendulum_weights_demo.pkl'.
-But you may change the name of file if you want to test with new APIAE network trained from step 1.
+But you may change the name of the file, if you want to test with new APIAE network trained from step 1.
