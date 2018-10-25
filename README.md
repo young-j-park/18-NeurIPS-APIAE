@@ -3,7 +3,7 @@
 This is a tensorlfow implementation for the demonstration of Pendulum experiment of the paper: "Adaptive Path-Integral Autoencoder: Representation Learning and Planning for Dynamical Systems":
 https://arxiv.org/abs/1807.02128.
 
-We would refer readers to watch video for the results:
+Supplementary video can be found in:
 https://www.youtube.com/watch?v=xCp35crUoLQ
 
 ## Requirements
