@@ -17,5 +17,5 @@ The codes were written in ipython with Jupyter Notebook for the better visualiza
 This code will save the learned model inside the folder 'weights'.
 
 2. To test the reconstruction / prediction / planning performance of APIAE., run 'test_pendulum.ipynb'.
-Without any modification, this code load the hyperparatmers (i.e. weights of neural networks) from './weights/pendulum_weights_demo.pkl'.
+As a default, this code load the learned model from './weights/pendulum_weights_demo.pkl'.
 But you may change the name of file if you want to test with new APIAE network trained from step 1.
