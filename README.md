@@ -1,7 +1,6 @@
 # 18-NIPS-APIAE
 
-This is a tensorlfow implementation for the demonstration of Pendulum experiment of the paper: "Computer Science > Machine Learning
-Adaptive Path-Integral Autoencoder: Representation Learning and Planning for Dynamical Systems":
+This is a tensorlfow implementation for the demonstration of Pendulum experiment of the paper: "Adaptive Path-Integral Autoencoder: Representation Learning and Planning for Dynamical Systems":
 https://arxiv.org/abs/1807.02128.
 
 ## Requirements
