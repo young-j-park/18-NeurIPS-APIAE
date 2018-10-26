@@ -6,8 +6,11 @@ https://arxiv.org/abs/1807.02128.
 Supplementary video can be found in:
 https://www.youtube.com/watch?v=xCp35crUoLQ
 
+Further codes will be uploaded soon.
+
 ## Requirements
 
+- Jypter Notebook
 - Python 3
 - Tensorflow 3
 - Numpy
